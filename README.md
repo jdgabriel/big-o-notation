@@ -13,6 +13,8 @@ node linear.js
 
 ## Exemplos e Explicações
 
+![Gráfico de complexidade Big O](.github/images/big-o-notation.png)
+
 ### 1. O(1) - Constante
 Arquivo: `constant.js`
 
