@@ -11,6 +11,16 @@ Exemplo:
 node linear.js
 ```
 
+## Ordem das Complexidades (da melhor para a pior)
+
+1. O(1) - Constante
+2. O(log n) - Logarítmica
+3. O(n) - Linear
+4. O(n log n) - Linearítmica
+5. O(n^2) - Quadrática
+6. O(2^n) - Exponencial
+7. O(n!) - Fatorial
+
 ## Exemplos e Explicações
 
 ![Gráfico de complexidade Big O](.github/images/big-o-notation.png)
